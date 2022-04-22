@@ -1,5 +1,10 @@
 # BNBPredictionBot
-Prediction Bot Pancake Swap , CandleGenie , Dogebets , PRDT Finance
+Prediction Bot Supported Platform
+
+- PancakeSwap (BNB) 
+- CandleGenie.io ( BNB , BTC , ETH ) 
+- Dogebets.gg (BNB) 
+- PRDT Finance (BNB , ETH)
 
 Requirement
 - Ubuntu 20.04
